@@ -18,8 +18,8 @@ Enterprise-style homelab for learning DevOps, Kubernetes, virtualization, networ
 
 Category	|	Technologies
 
-Virtualizacion	| Proxmox VE
-Containers	| Docker 
+Virtualizacion  |  Proxmox VE
+Containers	|  Docker 
 Orchestration   | Kubernetes / K3S
 Monitoring	| Prometheus, Grafana
 Storage 	| TrueNAS SCALE
