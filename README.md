@@ -3,7 +3,7 @@ Enterprise-style homelab for learning DevOps, Kubernetes, virtualization, networ
 
 ------------- ~ -------------
 
-#~Objetives~#
+#Objetives#
 
 - Learn Kubernetes and container orchestration 
 - Build Docker-Based services
@@ -14,7 +14,7 @@ Enterprise-style homelab for learning DevOps, Kubernetes, virtualization, networ
 - Test backup and disaster recovery procedures
 - Document infrastructure like a real operation team
 
-#~Technologies~#
+#Technologies#
 
 Category	|	Technologies
 
@@ -25,7 +25,7 @@ Networking	| VLANs, Reverse Proxy
 Automation	| Bash, Python
 CI/CD		| GitHub Action
 
-#~Project Status~#
+#Project Status#
 
 - Docker
 - Hardening
