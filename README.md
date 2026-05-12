@@ -18,10 +18,8 @@ Enterprise-style homelab for learning DevOps, Kubernetes, virtualization, networ
 
 Category	|	Technologies
 
-Virtualizacion  |  Proxmox VE
 Containers	|  Docker 
 Orchestration   | Kubernetes / K3S
-Monitoring	| Prometheus, Grafana
 Storage 	| TrueNAS SCALE
 Networking	| VLANs, Reverse Proxy 
 Automation	| Bash, Python
@@ -29,5 +27,6 @@ CI/CD		| GitHub Action
 
 #~Project Status~#
 
-WORK IN PROGRESS
-
+- Docker
+- Hardening
+- Netplan and Setup config
