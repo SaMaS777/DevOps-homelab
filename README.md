@@ -1,4 +1,4 @@
-# DevSecOps == homelab
+# DevSecOps == homelab == My laptop btw
 Enterprise-style homelab for learning DevOps, Kubernetes, virtualization, networking, monitoring, and automation.
 
 ------------- ~ -------------
